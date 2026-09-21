@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6448295d1b71779d91136b85",
+  "owner": "regrmu",
+  "repo": "page-dc456a1943cca3eb7894149a",
+  "title": "Ngcloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dc456a1943cca3eb7894149a",
+      "a": "Ngcloud",
+      "b": "2027官方最新地址导航",
+      "entity": "Ngcloud",
+      "brand": "Ngcloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "db3fe13567a5d8194c71a55d2a502f109205a7aee1f946f4e3769ff5008dd811",
+      "content": {
+        "primary_entity": "Ngcloud",
+        "keyword1": "Ngcloud",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "Ngcloud 提供 Clash、Shadowrocket、v2rayN、Surge 等客户端订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端与设备适配",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档订阅，覆盖 3 台到 20 台设备同时在线，月付或年付可按需选择，方便不同使用场景的用户配置订阅。",
+          "AI_FEATURES_INTRO": "从设备数量、流量大小和订阅周期三个角度了解 Ngcloud 套餐差异。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台设备，旗舰版支持 5 台，团队版可同时在线 20 台。",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB，按日常浏览、流媒体或团队办公选择。",
+          "AI_FEATURE_TEXT_3": "年付价格约为月付的十个月，长期使用可优先考虑按年订阅。",
+          "AI_FEATURE_TITLE_1": "按设备数量",
+          "AI_FEATURE_TITLE_2": "按流量大小",
+          "AI_FEATURE_TITLE_3": "按订阅周期",
+          "AI_GUIDE_INTRO": "三步完成 Ngcloud 订阅配置：选套餐、看适配、导入客户端。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "Ngcloud 是面向海外网络访问的加速器服务，提供多档订阅方案。用户可根据设备数量、月流量和预算选择基础版、旗舰版或团队版，按年付费更划算。",
+          "AI_HERO_SUBTITLE": "多设备订阅，灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付分别仅需 ¥150、¥350 和 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、流量需求和预算，在基础版、旗舰版、团队版中选择合适订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备类型与客户端，确认自己的系统在适配范围内。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅地址，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Ngcloud 订阅套餐",
+          "AI_FAQ_TITLE": "Ngcloud 常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Ngcloud 有哪些套餐可以选择？",
+          "AI_FAQ_ANSWER_1": "共有基础版、旗舰版和团队版三档。基础版月付 ¥15，旗舰版月付 ¥35，团队版月付 ¥85，年付分别为 ¥150、¥350 和 ¥850，按所需流量与设备数量选择即可。",
+          "AI_FAQ_QUESTION_2": "一个 Ngcloud 订阅能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版最多支持 20 台。如果多人共用或设备较多，建议选择团队版。",
+          "AI_FAQ_QUESTION_3": "Ngcloud 订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "先根据设备系统选择对应客户端，再参照该客户端的配置文档导入订阅信息，完成后即可连接。不同客户端界面略有差异，以客户端文档为准。",
+          "AI_FAQ_QUESTION_4": "旗舰版相比基础版多了哪些权益？",
+          "AI_FAQ_ANSWER_4": "旗舰版流量提升至每月 300GB，设备数增至 5 台，并提供全节点原生流媒体解锁、IPLC 专线游戏加速优化以及 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_5": "Ngcloud 按年付能省多少？",
+          "AI_FAQ_ANSWER_5": "基础版年付 ¥150，相当于每月约 ¥12.5；旗舰版年付 ¥350，每月约 ¥29；团队版年付 ¥850，每月约 ¥70。相比月付可降低整体支出。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "guzhenrc.cn",
+    "host": "guzhenrc.cn"
+  },
+  "file_hashes": {
+    "index.html": "6bb746db4186370723df4d1b15561e5a561ca23e991060679d23ae3845128ed1",
+    "sitemap.xml": "1c3bfc19260bf04a76cba09bc57b10dee6d79ab8e4fae99eee6c5415192e3747",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e12c749caaa9f22876e174ccc896aaa32c2bea4ec19e20ab0be143abb305ddff",
+    "robots.txt": "79f9427ca20bbdbf4eb47f0fe9c571f38a21e0cf84d28ee76deac4d8522f45b4",
+    "05f6be0b5e6c18ab10979901b3d06d81.txt": "99d895d05bcc64506faafabc6e43057731939843cef82d1242d734daf1e7dabd"
+  },
+  "revision": "36d8b6c1e00fb839269c39c0c9644fdc442584c9216c410769b3603bb34f6f68"
+}

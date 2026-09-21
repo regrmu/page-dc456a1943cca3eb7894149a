@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guzhenrc.cn/sitemap.xml
